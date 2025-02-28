@@ -1,6 +1,9 @@
 mountpoints:
   /: url: "https://author-p127374-e1240195.adobeaemcloud.com/bin/franklin.delivery/signorin/slcue
-  
+  mountpoints:
+  /:
+    url: https://content.da.live/signorin/slcue/
+    type: markup
  
   #/:
   #  url: "https://author-p99452-e916802.adobeaemcloud.com/bin/franklin.delivery/tuckerelliott/sol-sc-boilerplate-xwalk/main"
